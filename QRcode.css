@@ -1,0 +1,45 @@
+body
+{
+	background-color: hsl(212, 45%, 89%);
+	font-family: Outfit;
+	font-size: 15px;
+	font-weight: 400,700;
+	width: 1440px;
+}
+img
+{
+	border-radius: 10px;
+	margin-top: 10px;
+
+
+}
+.c1
+{
+	border-radius: 20px;
+	margin: auto;
+	margin-bottom: 200px;
+	margin-top: 170px;
+	background-color: hsl(0, 0%, 100%);
+	height: 450px;
+	width: 20%;
+}
+.center
+{
+	border-radius: 10px;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+.c2
+{
+	width: 190px;
+	color: hsl(218, 44%, 22%);
+    font-weight: bold;
+
+}
+.c3
+{
+	width: 200px;
+	color: hsl(220, 15%, 55%);
+	
+}
